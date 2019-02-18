@@ -1,5 +1,5 @@
 
-**Reliable Data Transfer - Implemented with UDP**
+# Reliable Data Transfer - Implemented with UDP
 
 
 
@@ -9,7 +9,9 @@ If a different loopback address is used it can be changed at the top of both UDP
 
 No additional arguments or variables are required.
 
-Usage:
 
+**Usage:**
+~~~~
 python3 UDP_Server.py
 python3 UDP_Client.py
+~~~~
